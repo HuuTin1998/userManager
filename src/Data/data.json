@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Hữu Tín",
+        "Tel":"0394017774",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Nguyễn Văn Đợi",
+        "Tel":"0394017775",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Hồ Tấn Tú",
+        "Tel":"0394017776",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Ngô Văn Trường",
+        "Tel":"0394017777",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Nguyễn Xuân Phương",
+        "Tel":"0394017778",
+        "Permission":3
+    }
+]
